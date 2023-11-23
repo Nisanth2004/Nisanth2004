@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Advanced Java in Enterprise Edition<br>👯 I'm looking to collaborate on web development-related Java<br>🤝 I'm currently learning SpringBoot/ Spring Security 6<br>🌱 I'm often learn to new things<br>💬 Ask me about Object Oriented Programming in Java<br>⚡ Fun fact - Honey Never Spoils
+🔭 I'm currently working on Advanced Java Spring framework in Enterprise Edition<br>👯 I'm looking to collaborate on web development-related Java<br>🤝 I'm currently learning SpringBoot/ Spring Security 6<br>🌱 I'm often learn to new things<br>💬 Ask me about Object Oriented Programming in Java<br>⚡ Fun fact - Honey Never Spoils
 
 
 ## 🌐 Socials:
