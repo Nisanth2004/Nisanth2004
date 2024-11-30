@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on SpringBooot framework in Enterprise Edition<br>👯 I'm looking to collaborate on web development-related Java<br>🤝 I'm currently learning Spring Security / Microservices<br>🌱 I'm often learn to new things<br>💬 Ask me about SpringBoot and Microservices in Java<br>⚡ Fun fact - AI is not gonna take your Job,Intsead the person who use the AI can take your Job
+🔭 I'm currently working on SpringBooot and Spring Security framework in Enterprise Edition<br>👯 I'm looking to collaborate on web development-related Java<br>🤝 I'm currently learning Spring Security / Microservices<br>🌱 I'm often learn to new things<br>💬 Ask me about SpringBoot and Microservices in Java<br>⚡ Fun fact - AI is not gonna take your Job,Intsead the person who use the AI can take your Job
 
 ## 🌐 Socials:
 <p align="left">
